@@ -17,3 +17,13 @@ recapAllInOne.py
 - added the adaptive LR
 - added early stopping and dropout layer
 - added argument parser
+
+---
+
+autoregresive/\*
+
+---
+
+- contains several easy solutions of common problems of predictions time series using autoregresive method
+- framing function
+- Vanilla RNN
